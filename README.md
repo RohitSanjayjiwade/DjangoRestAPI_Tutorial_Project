@@ -1,1 +1,2 @@
-# rest-framework-tutorial
+# DjangoRestAPI_Tutorial_Project
+A beginner-friendly Django REST Framework tutorial project guiding users through model creation (Snippet), serialization, URL configuration, and the implementation of a browsable API. This comprehensive tutorial covers key aspects like handling requests, updating models, adding endpoints for User models, and associating Snippets with Users. The project also includes features such as enforcing permissions, integrating login functionality, and configuring root and highlighted snippets endpoints. Find the project on GitHub for a hands-on experience in building powerful and structured RESTful APIs.
